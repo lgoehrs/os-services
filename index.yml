@@ -11,6 +11,7 @@ consoles:
 - fedora
 - ubuntu
 - xfce
+- jn
 engines:
 - docker-1.10.3
 - docker-1.11.2
